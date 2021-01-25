@@ -1,0 +1,19 @@
+{
+    "presets": ["@babel/preset-env", "@babel/preset-typescript"],
+    "plugins": [
+        "@babel/plugin-syntax-dynamic-import",
+        "@babel/proposal-object-rest-spread",
+        [
+            "@babel/plugin-transform-runtime",
+            {
+                "regenerator": true
+            }
+        ],
+        [
+            "@babel/plugin-transform-typescript",
+            {
+                "allowNamespaces": true
+            }
+        ]
+    ]
+}
