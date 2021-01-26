@@ -1078,10 +1078,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@lidio601/logger@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@lidio601/logger/-/logger-1.0.2.tgz#fad2bde10016364897d0ef22b966c56d908ae7d3"
-  integrity sha512-cJZKA5zKbDmpXquBNbQ9oa7FCBXD8GJ6l74g7WO47sGWXutn8sZkRem9fiOOBHYG3U5EZyXK7R/TbcPzEB/j9g==
+"@lidio601/logger@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@lidio601/logger/-/logger-1.0.3.tgz#2c0d2e9aa6e14e321ae04b01452d47d580afaa37"
+  integrity sha512-o+275/6qYjNRK/S4IgTWr2hlGtCals+5+VxojsL7KR695iyPrSlUfs4RdUYDhdqLIyO53rxbO6IsAWDNXqw3vg==
 
 "@nodelib/fs.scandir@2.1.4":
   version "2.1.4"

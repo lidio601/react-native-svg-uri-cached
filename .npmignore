@@ -12,3 +12,4 @@ README.md
 tsconfig.eslint.json
 tsconfig.json
 yarn-error.log
+.DS_Store

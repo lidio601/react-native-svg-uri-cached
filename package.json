@@ -44,7 +44,7 @@
     "react-native": ">=0.63.4"
   },
   "dependencies": {
-    "@lidio601/logger": "^1.0.2",
+    "@lidio601/logger": "^1.0.3",
     "object-hash": "^2.1.1",
     "react-native-fs": "^2.16.6",
     "react-native-svg": "^12.1.0"
