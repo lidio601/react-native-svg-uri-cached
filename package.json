@@ -1,6 +1,6 @@
 {
   "name": "@lidio601/react-native-svg-uri-cached",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native package that provides a SvgUriCached component",
   "main": "src/index.tsx",
   "repository": "git@github.com:lidio601/react-native-loading-overlay.git",
